@@ -1,10 +1,8 @@
 public void show(){
 	system.out.print("index")
-	system.out.print("index2")
-	system.out.print("index3")
+	
 }
 public void show1(){
 	system.out.print("show")
-	system.out.print("show2")
 	
 }
