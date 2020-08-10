@@ -4,5 +4,6 @@ public void show(){
 }
 public void show1(){
 	system.out.print("show")
+	system.out.print("show2")
 	
 }
